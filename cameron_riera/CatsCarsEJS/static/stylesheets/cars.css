@@ -1,0 +1,11 @@
+#container {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.resize {
+    max-width: 25%;
+    max-height: 25%;
+}
